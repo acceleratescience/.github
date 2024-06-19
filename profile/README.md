@@ -13,6 +13,7 @@
 [![Large Language Models](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=large-language-models&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/large-language-models)
 [![Publishing Python Code](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=packaging-publishing&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/packaging-publishing)
 [![Data Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=data-school-Autumn23&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/data-school-Autumn23)
+[![Diffusion Models](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=diffusion-models&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/diffusion-models)
 
 
 <p align="left">
