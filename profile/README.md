@@ -10,8 +10,10 @@
 
 
 ## Get started
-[![Large Language Models](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=large-language-models&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/large-language-models)
+[![AI Core Concepts](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=ai-core-concepts&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/ai-core-concepts)
 [![Publishing Python Code](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=packaging-publishing&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/packaging-publishing)
+[![Large Language Models](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=large-language-models&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/large-language-models)
+[![Hands On LLMs](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=hands-on-llms&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/hands-on-llms)
 [![Data Pipelines](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=data-school-Autumn23&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/data-school-Autumn23)
 [![Diffusion Models](https://github-readme-stats.vercel.app/api/pin/?username=acceleratescience&repo=diffusion-models&border_color=3336FF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/acceleratescience/diffusion-models)
 
